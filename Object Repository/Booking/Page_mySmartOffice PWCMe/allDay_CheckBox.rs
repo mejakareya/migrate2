@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>allDay_CheckBox</name>
+   <tag></tag>
+   <elementGuidId>d994dc7a-6715-47d8-be2b-2d44b387ebeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/app-bookings[1]/booking-space-flow[1]/div[1]/main[1]/div[2]/booking-spaces-form[1]/div[1]/form[1]/div[2]/div[2]/div[2]/mat-checkbox[1]/label[1]/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

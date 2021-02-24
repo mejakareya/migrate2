@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>calender_Dropdown</name>
+   <tag></tag>
+   <elementGuidId>3f7c331e-9330-4c29-8698-94b225f27181</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/app-bookings[1]/booking-space-flow[1]/div[1]/main[1]/div[2]/booking-spaces-form[1]/div[1]/form[1]/div[2]/div[2]/div[1]/div[1]/a-date-field[1]/div[1]/div[2]/app-icon[1]/div[1]/i[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

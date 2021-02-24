@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>booking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1464fcbb-6927-4db3-99cc-332ef63eb8f2</testCaseGuid>
+   <variable>
+      <defaultValue>'https://mysmartoffice-stg.mer.pwc.com/login/?continue=/staff/'</defaultValue>
+      <description></description>
+      <id>3b872bd7-3193-464f-b38d-8c921d7ae93e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'jeremy.west@testenv.pwc.com'</defaultValue>
+      <description></description>
+      <id>52352e3b-0ffe-4f6a-9830-ca2fbdd1061d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kw53epe#'</defaultValue>
+      <description></description>
+      <id>efaab798-194a-41d8-a8ac-d9a4850ccf20</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

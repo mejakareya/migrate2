@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>974b1253-176d-42c3-af8b-551395bcd5a9</testCaseGuid>
+   <variable>
+      <defaultValue>'https://mysmartoffice-stg.mer.pwc.com/login/?continue=/staff/'</defaultValue>
+      <description></description>
+      <id>d4561bff-4df0-415b-bb31-682f64f82920</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'jeremy.west@testenv.pwc.com'</defaultValue>
+      <description></description>
+      <id>8285f3a2-9246-45a7-94b1-b0bae3671e97</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kw53epe#'</defaultValue>
+      <description></description>
+      <id>c7581adb-01bf-40c5-a936-4b8cfaf41bc5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'a@a.com'</defaultValue>
+      <description></description>
+      <id>2c0e0bfc-5057-433a-a333-e1277311ca8f</id>
+      <masked>false</masked>
+      <name>wrongEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>8acd1e2f-797e-450c-aeaf-d1e2402cd0f6</id>
+      <masked>false</masked>
+      <name>wrongPassword</name>
+   </variable>
+</TestCaseEntity>

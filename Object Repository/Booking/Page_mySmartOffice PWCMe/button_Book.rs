@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Book</name>
+   <tag></tag>
+   <elementGuidId>56ca04f6-c8f7-48f4-bbf9-8b295b978b33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/app-bookings[1]/booking-space-flow[1]/div[1]/main[1]/div[2]/booking-find-space[1]/div[1]/div[1]/a-booking-space-item[3]/div[1]/div[2]/button[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

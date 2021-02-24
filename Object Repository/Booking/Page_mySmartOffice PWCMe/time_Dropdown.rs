@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>time_Dropdown</name>
+   <tag></tag>
+   <elementGuidId>83d4db18-bd31-436e-9923-2e406099da7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/app-bookings[1]/booking-space-flow[1]/div[1]/main[1]/div[2]/booking-spaces-form[1]/div[1]/form[1]/div[2]/div[2]/div[3]/div[1]/a-time-field[1]/div[1]/div[2]/app-icon[1]/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
